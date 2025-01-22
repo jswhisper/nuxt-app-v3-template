@@ -1,5 +1,7 @@
 # nuxt-app-v3-template
-NUX3基本專案
+* 目的
+  > 1. 建置NUX3基本專案
+  > 2. 上傳到GITHUB
 
 <code>
 ✨ Nuxt project has been created with the v3 template. Next steps:
